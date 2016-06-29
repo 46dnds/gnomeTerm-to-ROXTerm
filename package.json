@@ -1,0 +1,21 @@
+{
+  "name": "gnomeTerm-to-ROXTerm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "technosolutionscl/gnomeTerm-to-ROXTerm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "latest",
+    "fs-extra": "latest",
+    "xml2js": "latest"
+  }
+}
